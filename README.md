@@ -51,7 +51,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,11 +59,16 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
+![ts][ts]
+![python][python]
+![golang][golang]
+
 ![django][django]
 ![django-rest][django-rest]
 ![fastapi][fastapi]
 
-![vue.js][vue.js]
+![vue2][vue2]
+![vue3][vue3]
 ![vuetify][vuetify]
 
 ![cdk][cdk]
@@ -124,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@email_client.com
+Your Name - email@eomap.de
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
@@ -136,10 +141,14 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
 [django-rest]: https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
 [fastapi]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-[vue.js]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[vue2]: https://img.shields.io/badge/vue-2-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[vue3]: https://img.shields.io/badge/vue-3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
 [vuetify]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF
+[ts]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [cdk]: https://img.shields.io/badge/cdk-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [dynamodb]: https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white
 [postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
 
 [product-screenshot]: docs/images/screenshot.png
