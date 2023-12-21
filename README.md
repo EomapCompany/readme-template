@@ -141,8 +141,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
 [django-rest]: https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
 [fastapi]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-[vue2]: https://img.shields.io/badge/vue-2-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
-[vue3]: https://img.shields.io/badge/vue-3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[vue2]: https://img.shields.io/badge/vue2-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[vue3]: https://img.shields.io/badge/vue3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
 [vuetify]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF
 [ts]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
